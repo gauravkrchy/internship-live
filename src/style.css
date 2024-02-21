@@ -1,0 +1,50 @@
+html{
+    max-width:1000px;
+    margin:0 auto;
+    cursor:pointer;
+}
+#container{
+    margin-left:200px;
+    margin-right:116px;
+    display:flex;
+    height:500px;
+    max-width:900px;
+    margin-top:120px;
+}
+#photo{
+    width:50%;
+    
+}
+#image{
+    border-radius:4px solid grey;
+}
+#forme{
+    width:50%;
+    background-color: rgb(0, 0, 0);
+}
+h2{
+    color:rgb(255, 255, 255);
+    font:sans-serif;
+    text-align: center;
+    color:yellow;
+    padding-bottom:10px;
+}
+#form{
+    color:rgb(255,255,255);
+    padding-bottom:20px;
+    font-size:18px;
+    padding-left:9px;
+}
+#last{
+    text-align: center;
+}
+#form:hover{
+    color:rgb(42, 42, 255);
+}
+#submit{
+    text-align: center;
+}
+#text{
+    color:yellow;
+    text-align: center;
+}
